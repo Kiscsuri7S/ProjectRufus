@@ -36,3 +36,22 @@ D:\Oktatók\MM\Csharp\projectOne\projectOne\bin\Debug\net7.0\System.Drawing.Comm
 D:\Oktatók\MM\Csharp\projectOne\projectOne\bin\Debug\net7.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
 D:\Oktatók\MM\Csharp\projectOne\projectOne\obj\Debug\net7.0\projectOne.csproj.AssemblyReference.cache
 D:\Oktatók\MM\Csharp\projectOne\projectOne\obj\Debug\net7.0\projectOne.csproj.CopyComplete
+D:\Lil' Csurgi The III\ProjectRufus\projectOne\bin\Debug\net7.0\projectOne.exe
+D:\Lil' Csurgi The III\ProjectRufus\projectOne\bin\Debug\net7.0\projectOne.deps.json
+D:\Lil' Csurgi The III\ProjectRufus\projectOne\bin\Debug\net7.0\projectOne.runtimeconfig.json
+D:\Lil' Csurgi The III\ProjectRufus\projectOne\bin\Debug\net7.0\projectOne.dll
+D:\Lil' Csurgi The III\ProjectRufus\projectOne\bin\Debug\net7.0\projectOne.pdb
+D:\Lil' Csurgi The III\ProjectRufus\projectOne\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\Lil' Csurgi The III\ProjectRufus\projectOne\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\Lil' Csurgi The III\ProjectRufus\projectOne\bin\Debug\net7.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\Lil' Csurgi The III\ProjectRufus\projectOne\obj\Debug\net7.0\projectOne.csproj.AssemblyReference.cache
+D:\Lil' Csurgi The III\ProjectRufus\projectOne\obj\Debug\net7.0\projectOne.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lil' Csurgi The III\ProjectRufus\projectOne\obj\Debug\net7.0\projectOne.AssemblyInfoInputs.cache
+D:\Lil' Csurgi The III\ProjectRufus\projectOne\obj\Debug\net7.0\projectOne.AssemblyInfo.cs
+D:\Lil' Csurgi The III\ProjectRufus\projectOne\obj\Debug\net7.0\projectOne.csproj.CoreCompileInputs.cache
+D:\Lil' Csurgi The III\ProjectRufus\projectOne\obj\Debug\net7.0\projectOne.csproj.CopyComplete
+D:\Lil' Csurgi The III\ProjectRufus\projectOne\obj\Debug\net7.0\projectOne.dll
+D:\Lil' Csurgi The III\ProjectRufus\projectOne\obj\Debug\net7.0\refint\projectOne.dll
+D:\Lil' Csurgi The III\ProjectRufus\projectOne\obj\Debug\net7.0\projectOne.pdb
+D:\Lil' Csurgi The III\ProjectRufus\projectOne\obj\Debug\net7.0\projectOne.genruntimeconfig.cache
+D:\Lil' Csurgi The III\ProjectRufus\projectOne\obj\Debug\net7.0\ref\projectOne.dll

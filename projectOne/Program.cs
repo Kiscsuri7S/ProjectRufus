@@ -1,9 +1,16 @@
 ﻿using projectOne;
+using System.Security.Cryptography;
 
 Menu();
 
 string playerName = "";
 bool isMiloWithUs = false;
+int playerHealth = 100;
+int playerStrengthn = 1;
+
+string[] enemyNames = { "Gorlock", "Maru", "Bober", "Pingwin", "Tim", "József", "Fereng", "VojTech", "Lightning mcQueen" };
+
+
 
 
 void Menu()
@@ -42,22 +49,22 @@ void NewGameStart()
 
 
 
-    Console.WriteLine("You woke up in your mother's house.");
-    Console.WriteLine("It was a strangely quiet morning in Berlin.");
-    Console.WriteLine("A few days ago the doctor took your mom to the hospital,\nyou should pay her a visit soon.");
+    Print("You woke up in your mother's house.");
+    Print("It was a strangely quiet morning in Berlin.");
+    Print("A few days ago the doctor took your mom to the hospital,\nyou should pay her a visit soon.");
     Tutorial();
 
 }
 
  void Tutorial()
 {
-    Console.WriteLine("Get bro to come w u?");
-    Console.WriteLine("Y/N");
+    Print("Get bro to come w u?");
+    Print("Y/N");
     string choice = Console.ReadLine();
     if (choice.ToUpper() == "Y") {
-        Console.WriteLine("Bro not home anyway");
-        Console.WriteLine("Milo (your friend) comes over and offers you he'll come with you if you help him get some mushrooms");
-        Console.WriteLine("Will you help him? (Y/N)");
+        Print("Bro not home anyway");
+        Print("Milo (your friend) comes over and offers you he'll come with you if you help him get some mushrooms");
+        Print("Will you help him? (Y/N)");
         choice = Console.ReadLine();
 
         if (choice.ToUpper() == "Y")
@@ -70,8 +77,8 @@ void NewGameStart()
     }
     else
     {
-        Console.WriteLine("Milo (your friend) comes over and offers you he'll come with you if you help him get some mushrooms");
-        Console.WriteLine("Will you help him? (Y/N)");
+        Print("Milo (your friend) comes over and offers you he'll come with you if you help him get some mushrooms");
+        Print("Will you help him? (Y/N)");
         choice = Console.ReadLine();
 
         if (choice.ToUpper() == "Y")
@@ -81,11 +88,41 @@ void NewGameStart()
         {
         }
     }
-
 }
 
 
 
+void Print(string text, int speed = 60)
+{
+    foreach (char c in text)
+    {
+        Console.Write(c);
+        Thread.Sleep(speed);
+    }
+}
+
+void Battle()
+{
+    Print("Our homeland is in danger. Everything is awful.");
+    Print("Player Turn");
+    Console.WriteLine("[1] - Attack \n [2] - Items \n [3] - Talk \n [4] - Flee \n");
+
+    string battleChoice = Console.ReadLine();
+
+    switch (battleChoice)
+    {
+        case "1":
+            break;
+        case "2":
+            break;
+        case "3":
+            break;
+        case "4":;
+            Console.WriteLine("Good Bye!");
+            Print("And you ran away like a coward");
+            break;
+    }
+}
 
 
 

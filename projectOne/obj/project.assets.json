@@ -128,23 +128,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\martin\\.nuget\\packages\\": {},
+    "C:\\Users\\tanulo\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Oktatók\\MM\\Csharp\\projectOne\\projectOne\\projectOne.csproj",
+      "projectUniqueName": "D:\\Lil' Csurgi The III\\ProjectRufus\\projectOne\\projectOne.csproj",
       "projectName": "projectOne",
-      "projectPath": "D:\\Oktatók\\MM\\Csharp\\projectOne\\projectOne\\projectOne.csproj",
-      "packagesPath": "C:\\Users\\martin\\.nuget\\packages\\",
-      "outputPath": "D:\\Oktatók\\MM\\Csharp\\projectOne\\projectOne\\obj\\",
+      "projectPath": "D:\\Lil' Csurgi The III\\ProjectRufus\\projectOne\\projectOne.csproj",
+      "packagesPath": "C:\\Users\\tanulo\\.nuget\\packages\\",
+      "outputPath": "D:\\Lil' Csurgi The III\\ProjectRufus\\projectOne\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\martin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\tanulo\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
