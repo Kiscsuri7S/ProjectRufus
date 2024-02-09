@@ -31,3 +31,8 @@ C:\Users\tanulo\Documents\GitHub\ProjectRufus\projectOne\bin\Debug\net7.0\System
 C:\Users\tanulo\Documents\GitHub\ProjectRufus\projectOne\bin\Debug\net7.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
 C:\Users\tanulo\Documents\GitHub\ProjectRufus\projectOne\obj\Debug\net7.0\projectOne.csproj.AssemblyReference.cache
 C:\Users\tanulo\Documents\GitHub\ProjectRufus\projectOne\obj\Debug\net7.0\projectOne.csproj.CopyComplete
+D:\Oktatók\MM\Csharp\projectOne\projectOne\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\Oktatók\MM\Csharp\projectOne\projectOne\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\Oktatók\MM\Csharp\projectOne\projectOne\bin\Debug\net7.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\Oktatók\MM\Csharp\projectOne\projectOne\obj\Debug\net7.0\projectOne.csproj.AssemblyReference.cache
+D:\Oktatók\MM\Csharp\projectOne\projectOne\obj\Debug\net7.0\projectOne.csproj.CopyComplete
